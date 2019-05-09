@@ -1,6 +1,11 @@
 John Elway Dodge
 1
 3
+VIN111
+Chevrolet
+Alabama Cousin
+2015
+15000
 VIN123
 Dodge
 Ram 1500 Quad Cab
@@ -11,11 +16,6 @@ Chevrolet
 Traverse Premier SUV
 2017
 47868
-VIN111
-Chevrolet
-Alabama Cousin
-2015
-15000
 Tesla Cherry Creek
 25
 1

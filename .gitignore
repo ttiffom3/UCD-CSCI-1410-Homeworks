@@ -11,6 +11,9 @@
 *.gch
 *.pch
 
+# VSCODE
+/.vscode
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -33,6 +36,7 @@
 
 # Other
 *.zip
+out.txt
 
 # Directories
 /outline
