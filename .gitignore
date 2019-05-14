@@ -36,7 +36,4 @@
 
 # Other
 *.zip
-out.txt
-
-# Directories
-/outline
+PA3/out.txt
