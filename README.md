@@ -2,7 +2,9 @@
 
 ## Programming Assignment 1
 
-Grade: 44/40 points
+- Grade: 54/50 points
+  - Outline: 10/10 points
+  - Program: 44/40 points
 
 ### Learning Goals PA1
 
@@ -14,7 +16,9 @@ Grade: 44/40 points
 
 ## Programming Assignment 2
 
-Grade: 41/40 points
+- Grade: 51/50 points
+  - Outline: 10/10 points
+  - Program: 41/40 points
 
 ### Learning Goals PA2
 
@@ -26,7 +30,9 @@ Grade: 41/40 points
 
 ## Programming Assignment 3
 
-Grade: Pending
+- Grade: Pending(10/50) points
+  - Outline: 10/10 points
+  - Program: Pending
 
 ### Learning Goals PA3
 
