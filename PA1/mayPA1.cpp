@@ -1,6 +1,4 @@
 //TORIN MAY
-//STUDENT ID: 103342274
-//CSCI 1410-002
 
 #include <iostream>
 #include <fstream>
