@@ -1,5 +1,4 @@
 //TORIN MAY
-//STUDENT ID: 103342274
 //CSCI 1410-002
 
 /*
@@ -26,7 +25,6 @@ OUTLINE
 * Get userInput
 *read input text file
 	*loop until userinput equals 4
-* Print “Torin May 103342274” to console
 * Print “Select an option number” to console
 * Print “1. Always 99” to console
 * Print “2. Always 3” to console
