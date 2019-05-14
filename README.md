@@ -6,8 +6,8 @@ Grade: Pending
 
 ## Learning Goals
 
-- Object oriented programming.
+- Object oriented programming
   - Classes
 - Pointers
-- Dynamically Allocated Memory
+- Dynamically allocated memory
 - Vector usage
