@@ -19,7 +19,6 @@ int main() {
 	Magic8Response responses[MAX_SIZE];
 
 	ifstream infile;
-	cout << "Torin May\nStudent ID: 103342274\n" << endl;
 
     numResponses = ReadResponses(infile, responses, MAX_SIZE);
 
