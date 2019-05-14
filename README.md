@@ -3,3 +3,11 @@
 Programming Assignment 3 For CSCI 1410 CU Denver
 
 Grade: Pending
+
+## Learning Goals
+
+- Object oriented programming.
+  - Classes
+- Pointers
+- Dynamically Allocated Memory
+- Vector usage
