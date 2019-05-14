@@ -1,4 +1,5 @@
 //TORIN MAY
+//CSCI 1410-002
 
 #include <iostream>
 #include <fstream>
@@ -88,8 +89,6 @@ int main() {
     string filename = "in.txt";
     // Input file stream
     ifstream inFS;
-
-    cout << "Torin May\nStudent ID: 103342274" << endl;
     do {
        
         cout << "1. Almost Always Ninety-Nine" << endl;
