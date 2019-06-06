@@ -30,7 +30,7 @@
 
 ## Programming Assignment 3
 
-- Grade: Pending(46/50) points
+- Grade: 46/50 points
   - Outline: 10/10 points
   - Program: 36/40
 
