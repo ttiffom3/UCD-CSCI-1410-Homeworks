@@ -32,7 +32,7 @@
 
 - Grade: 46/50 points
   - Outline: 10/10 points
-  - Program: 36/40
+  - Program: 36/40 points
 
 ### Learning Goals PA3
 
