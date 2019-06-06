@@ -30,9 +30,9 @@
 
 ## Programming Assignment 3
 
-- Grade: Pending(10/50) points
+- Grade: Pending(46/50) points
   - Outline: 10/10 points
-  - Program: Pending
+  - Program: 36/40
 
 ### Learning Goals PA3
 
