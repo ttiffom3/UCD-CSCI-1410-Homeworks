@@ -1,7 +1,9 @@
-# Class Info
+# Class Information
   University: University of Colorado at Denver
  
-  Name: Fundementals of programming
+  Name: Fundementals of Programming
+  
+  Term: Spring 2019
 
 ## Programming Assignment 1
 
